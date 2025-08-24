@@ -1,0 +1,38 @@
+Memorandum
+Memorandum PERAC Memo #15: 91A PROSPER Tasks
+Date:	
+06/26/2024
+Referenced Sources:	
+PERAC Website
+PERAC Memo #15 2024
+
+To All Retirement Boards:
+M E M O R A N D U M
+
+TO:                  All Retirement Boards
+
+FROM:            Bill Keefe, Executive Director
+
+RE:                  91A PROSPER Tasks
+
+DATE:            June 26, 2024
+
+PERAC, via its PROSPER portal, has issued tasks to all boards for every disability retiree who has failed to meet the filing requirements of the 2023 Annual Statement of Earned Income (91A form), pursuant to GL c. 32 §91A. In addition, tasks have been issued for every member that has reported earnings in an amount that may require an adjustment to their disability retirement benefit. 
+
+PERAC already has mailed a letter and another 91A form, to be completed by the retiree, if they have not complied with the filing requirements for submitting the 2023 91A form. 
+
+It is now the responsibility of the retirement board to provide such member with written notice and an opportunity tobe heard by the retirement board.  In the event of termination of benefits following such hearing, the member shallhave the right to appeal such action to the Contributory Retirement Appeal Board (“CRAB”).
+
+PROSPER will prompt you to take “Termination Action” and will keep sending you task alerts every 30 days if noresponse is indicated.  Once a member complies or if their status changes you will be able to view the update in PROSPER, but you will not receive a notification. 
+
+Also, you will soon start to receive tasks titled “Salary Verification” which will be visible in PROSPER.  At this time, we are asking your board to obtain the annual 2023 current salary for the job from which such member retired, as well as retirement allowance figures. 
+
+Once figures are obtained you will be required to respond to the PROSPER task.  To do this, you must click on each retiree, or export the list to a CSV file, and enter the 2023 annual pension, annuity and current salary amounts, as well as the dependency and workers compensation offset amount, if applicable.  The Veterans and COLA amounts should be included in the annual pension amount.  Once you are finished with the exported file, you should save it so it may be uploaded back into PROSPER.
+
+ Once all the figures are entered, click on the “submit” button, and PROSPER will do the calculation to determine if the retiree is within their allowable earnings.  If, after you hit “submit” and learn that the figures are incorrect, you must contact Sandra King to make any changes. 
+
+If the retiree has exceeded their allowable earnings PERAC will send the retiree an Excess Earnings letter.  Once PERAC generates the Excess Earnings letter your board will receive a task through PROSPER notifying you of the excess.  The boards will also need to provide notice to the retiree that they have exceeded their allowable earnings.  If a refund is due to the retirement system, the retiree's allowance will be suspended until the amount owed is recovered or a payment plan is agreed to, starting with the next monthly pension benefit.  If a hearing is requested by said member(s), the process should be completed so that refunds would commence with the next pension benefit.  All documents needed for hearings are now viewable to the boards through PROSPER. 
+
+Your board must reply to the PROSPER task of the action taken about the member having excess earnings.  You will also have the option to upload a copy of the notification that your board sends your member. Please do not upload any tax documents, only board correspondence.
+
+Thank you for your cooperation regarding this process.  If you have questions or need any assistance in entering the figures into PROSPER, please contact Sandra King at Sandra.E.King@Mass.gov.

@@ -1,0 +1,50 @@
+Memorandum
+Memorandum PERAC Memo #22: New Standard for Calculating Public Sector Post-Retirement Work Limitations
+Date:	
+08/14/2024
+Referenced Sources:	
+PERAC Website
+PERAC Memo #22 2024
+
+To All Retirement Boards:
+M E M O R A N D U M
+
+TO:                    All Retirement Boards
+
+FROM:              Bill Keefe, Executive Director
+
+RE:                    New Standard for Calculating Public Sector Post-Retirement Work Limitations
+
+DATE:              August 14, 2024
+
+On July 31, 2024, Governor Healey signed into law Chapter 141 of the Acts of 2024, “An Act Relative to Salary Range Transparency” (“Salary Transparency Act”).  Section 4 and Section 11 of the Salary Transparency Act amend G.L. c. 32, § 91(b) concerning the calculation of allowable earnings for retirees who return to work in the public sector.  This will allow a retiree working in the public sector to use the salary from their last position OR the salary used to calculate their retirement allowance.
+
+Prior Language for G.L. c. 32, § 91(b)
+
+In its previous form, G.L. c. 32, § 91(b) provided that to determine the allowable earnings for a retiree who returns to work in the public sector, “the salary that is being paid for the position from which he was retired or in which his employment was terminated…” must be used. 
+
+This presented somewhat of a problem in certain situations, as when a member retired from one position, but his or her retirement allowance was calculated on a consecutive 3- or 5-year period during which he or she had enjoyed a higher salary.  This would result in a retiree having no post-retirement earnings capacity if their retirement allowance was higher than the position from which they had retired.
+
+PERAC’s longstanding position was that if the current salary of the position from which the member retired was either lower than the retiree’s retirement allowance or non-existent because the position had been abolished, then retirement boards and retirees should use the salary upon which the retiree’s pension was calculated.  However, that position was struck down by the Division of Administrative Law Appeals (“DALA”) and the Contributory Retirement Appeal Board (“CRAB”) in Dixon v. Lynn Ret. Sys., CR-16-0289 & CR-19-0469 (CRAB Mar. 15, 2024).  In Dixon, DALA and CRAB made the determination, based upon the statutory language, that only the salary that is currently being paid for the position from which the member retired can be used,
+
+regardless of whether that salary is lower than the retiree’s retirement allowance or if the position from which the retiree retired had been subsequently eliminated.  
+
+New Language for G.L. c. 32, § 91(b)
+
+Section 4 of the Salary Transparency Act provides as follows:
+
+SECTION 4. Section 91 of said chapter 32, as so appearing, is hereby amended by inserting after the word “terminated”, in line 100, the following words:- or the salary upon which the retirement allowance is based, whichever is greater
+
+As such, G.L. c. 32, § 91(b) will now read, in pertinent part, as follows:
+
+…the salary that is being paid for the position from which he was retired or in which his employment was terminated or the salary upon which the retirement allowance is based, whichever is greater….
+
+Pursuant to the new language of Section 91(b), in calculating their ability to work post-retirement, retirees can now use either the current salary of the position they retired from or the salary upon which their retirement allowance was based, whichever is greater.  This new language will ensure that all retirees have an earnings capacity for public sector employment.
+
+For retirees who previously had their earnings capacity under G.L. c. 32, § 91(b) calculated using the salary their pension was based upon, Section 11 of the Salary Transparency Act provides:
+
+SECTION 11. Anyone who had their earnings capacity calculated under section 91 of chapter 32 of the General Laws using the salary upon which their retirement allowance was based prior to the effective date of this act shall not have their earnings capacity recalculated.
+
+Thus, those retirees who had their earnings capacity calculated using a salary upon which their retirement allowance was based will be held harmless and will not have to have their earnings capacity recalculated for the years in question.
+
+We trust the foregoing will be of assistance.  If you have any further questions, please feel free to contact Senior Associate General Counsel Felicia McGinniss at (617) 591-8909 or at felicia.m.mcginniss@mass.gov.  Thank you.

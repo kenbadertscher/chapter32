@@ -1,0 +1,85 @@
+Regulation
+Regulation 840 CMR 9.00: Approval of Retirement Board Decisions
+Date:	
+11/22/2002
+Organization:	
+Public Employee Retirement Administration Commission
+Regulatory Authority:	
+M.G.L. c. 7, § 50
+M.G.L. c. 32, § 21
+Official Version:	
+Purchase the official print version
+This is an unofficial version of Commonwealth regulations and is posted here for the convenience of the public. It is not an official statement of the regulations.
+
+Skip table of contents
+Table of Contents
+9.01 Approval Required; Exceptions
+9.02 Notice To The Commissioner
+9.03 Benefit Calculations
+9.03 Benefit Calculations
+
+top
+Table of Contents
+9.01 Approval Required; Exceptions
+No decision to grant an application for retirement shall be sent to a member or beneficiary unless the Public Employee Retirement Administration Commission approves the decision pursuant to M.G.L. c. 32, § 21 or no action is taken by the Commission: 
+(a) within 30 days of the date the Commission is notified of a decision granting an application for disability retirement; or 
+(b) within 90 days of the date the Commission is notified of a decision granting any other application for retirement.
+In the event the Commission takes no action on a decision granting an application for retirement for superannuation within 90 days of notice of the decision, the board may, pursuant to M.G.L. c. 32, § 98 or 99 request the treasurer to make advance payments to the member as determined by the board subject to the final determination by the Commission. In the event a member receives an amount in excess of the sum later approved by the Commission, the member shall refund the excess or the board may deduct the excess from the member's future monthly payments.
+9.02 Notice To The Commissioner
+Notice to the Commission of a decision granting an application for retirement shall include a copy of the decision and all documentary evidence in the record that may be of assistance to the Commission including, without limitation, the following:
+
+If the application is for superannuation retirement: 
+(a) the superannuation retirement allowance form; 
+(b) the superannuation calculation form; and 
+(c) a copy of the member's deduction cards.
+If the application is for disability retirement: 
+(a) the transmittal to the Commission; 
+(b) all documents and information described in 840 CMR 10.13(1)(a)1.; 
+(c) the disability retirement calculation form(s); and 
+(d) a copy of the member's deduction cards.
+If the application is for accidental death benefits: 
+(a) the transmittal to the Commission; 
+(b) the accidental death calculation form; 
+(c) a statement of the facts found by the retirement board; 
+(d) all descriptions of the accident; 
+(e) all descriptions of the member's duties; 
+(f) all documents prepared by the beneficiary in connection with the application; 
+(g) all documents prepared by the employer in connection with the application; 
+(h) a copy of the member's death certificate; and 
+(i) any available medical evidence, including the original medical records and any medical autopsy or evaluation reports of physicians employed by the board to make an independent judgment based on available medical information.
+If the application is for veteran's benefits: 
+(a) the veteran's retirement allowance form; 
+(b) all documents and information establishing the applicant's status as a veteran; and 
+(c) if the application seeks non-contributory retirement under M.G.L. c. 32, §§ 56 and 60, all documents and information establishing whether the applicant's employment included any work for pay on or before June 30, 1939.
+9.03 Benefit Calculations
+Except as provided by 840 CMR 9.03(2), all benefit calculations for retirement allowances granted under the provisions of M.G.L. c. 32 shall be forwarded to the Commission for approval in accordance with 840 CMR 9.02.
+Any retirement board may perform benefit calculations on an automated system approved by the Commission. Except as provided by 840 CMR 9.03(8), individual benefit calculations performed on an automated system approved for performing such calculations shall be considered approved and need not be forwarded to the Commission for approval.
+Any board may apply for approval of an automated benefit calculation system by submitting a letter describing the system together with the documentation for all system computer programs, a copy of system procedures and samples of all categories of calculations to be performed on the system. Upon receipt of a request for approval of an automated benefit calculation system, the Commission shall inform the retirement board of the protocol necessary to approve such system. No automated benefit calculation system shall be considered approved unless the board has performed the established protocol. No change shall be made in an approved automated system without the approval of the Commission.
+Automated benefit calculation systems and changes in approved systems will generally be approved if: 
+
+(a) System computer programs have the capability of performing benefit calculations and storing, retrieving and printing both detailed and summary information for all calculations performed including, for each calculation, the member's: 
+
+name; 
+social security number; 
+sex; 
+creditable service; 
+final average salary; 
+date of birth; date of retirement; 
+retirement type and option; group; 
+beneficiary information (name, birthdate, and relationship); 
+veteran status; 
+retirement allowance amount; 
+pension amount;
+annuity amount; 
+dependency allowance; worker's compensation information (if any). 
+
+(b) System procedures, including training and support of system operators, are designed to minimize the risk of error and loss of data. 
+
+(c) System and non-system categories of benefit calculations are clearly identified and provision is made for submitting any non-system categories of calculations to the Commission in accordance with 840 CMR 9.03(1).
+
+The following text is effective 09/29/00
+ 
+The Commission may approve automated benefit calculation systems for all benefit calculations or limit approval to specific categories of calculations. If system approval is limited to specific categories of benefit calculations, all other calculations shall be forwarded to the Commission for approval in accordance with 840 CMR 9.03(1).
+Every retirement board using an automated benefit calculation system, shall biannually submit, based on a schedule determined by the Commission, a summary report, including a representative sample of at least 5% of all benefit calculations, but not less than two calculations, performed on the system during the preceding six months, and describing any system changes under consideration by the board.
+The Commission shall, from time to time, audit the performance of each Approved automated benefit calculation system to determine the accuracy of calculations and whether the system meets requirements for continued system approval. For this purpose, the Commission shall have access to all system records and may examine all calculations or a representative sample of calculations performed on the system.
+If the Commission determines at any time that an approved automated benefit calculation system is performing inaccurate calculations or otherwise fails to meet requirements for continued system approval, or if a retirement board fails to comply with any of the requirements of 940 CMR 9.03, the Commission may suspend or revoke approval of the automated benefit calculation system in whole or in part. In this event, all benefit calculations with respect to which approval is suspended or revoked shall be performed manually and shall be forwarded to the Commission for approval in accordance with 840 CMR 9.03(1) until such time as the automated system is again approved by the Commission.

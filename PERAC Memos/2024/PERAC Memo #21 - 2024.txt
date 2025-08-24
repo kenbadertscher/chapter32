@@ -1,0 +1,61 @@
+Memorandum
+Memorandum PERAC Memo #21: New Anti-Spiking Exemptions
+Date:	
+08/14/2024
+Referenced Sources:	
+PERAC Website
+PERAC Memo #21 2024
+
+To All Retirement Boards:
+M E M O R A N D U M
+
+TO:                             All Retirement Boards
+
+FROM:                       Bill Keefe, Executive Director
+
+RE:                             New Anti-Spiking Exemptions
+
+DATE:                        August 14, 2024
+
+On July 31, 2024, Governor Healy signed into law Chapter 141 of the Acts of 2024, “An Act Relative to Salary Range Transparency” (“Salary Transparency Act”).  Section 3 and Section 12 of the Salary Transparency Act amend G.L. c. 32, § 5(2)(f) concerning the exceptions to the anti-spiking provision, for salary increases occurring under the Massachusetts Equal Pay Act, G.L. c. 149, § 105A (“MEPA”) and from “employer’s systemic wage adjustments.”
+
+MEPA and Anti-Spiking Under Chapter 32
+
+On July 1, 2018, “An Act to Establish Pay Equity” was enacted to update MEPA to specifically address pay inequity and wage discrimination by providing clarity on what is unlawful wage discrimination and adding new protections to ensure workplaces are fair and equal.  Under MEPA, if an employee is found to be paid less than another employee of a different gender performing comparable work, their salary is to be increased to address the pay gap. 
+
+As a result of the salary adjustments mandated under MEPA, some members at the time of retirement have triggered the “anti-spiking” provisions of Chapter 32.  Section 18 of Chapter 176 of the Acts of 2011 introduced anti-spiking provisions with the addition of G.L. c. 32, § 5(2)(f), which was further amended by Section 68 of Chapter 165 of the Acts of 2014.  Section 5(2)(f) states in relevant part:
+
+(f) In calculating the average annual rate of regular compensation for purposes of this section, regular compensation in any year shall not include regular compensation that exceeds the average of regular compensation received in the 2 preceding years by more than 10 per cent.
+
+There are several exceptions contained in Section 5(2)(f), including an increase in hours of employment, a bona fide change in position, salary increase as part of a collective bargaining agreement, or when a salary is set by law. 
+
+The Division of Administrative Law Appeals (“DALA”) concluded in several cases that MEPA did not involve a salary set by law, but rather dictated measures to ensure equitable pay.  Consequently, DALA was forced to find that salary increases resulting from MEPA’s implementation were not exempt from the anti-spiking provisions.
+
+New Language for G.L. c. 32, § 5(2)(f)
+
+Section 3 of the Salary Transparency Act provides as follows:
+
+SECTION 3. Section 5 of chapter 32 of the General Laws, as appearing in the 2022 Official Edition, is hereby amended by inserting after the word “law”, in line 211, the following words:- , from a bona-fide increase in salary related to eliminating wage differentials as required pursuant to section 105A of chapter 149 or from an employer’s systemic wage adjustments.
+
+As such, G.L. c. 32, § 5(2)(f) will now read, in pertinent part, as follows:
+
+This paragraph shall not apply to an increase in the annual rate of regular compensation that results from an increase in hours of employment, from overtime wages, from a bona fide change in position, from a modification in the salary or salary schedule negotiated for bargaining unit members under chapter 150E, from an increase in salary for a member whose salary amount is specified by law, from a bona-fide increase in salary related to eliminating wage differentials as required pursuant to section 105A of chapter 149 or from an employer’s systemic wage adjustments….  (Emphasis added.)
+
+Pursuant to the new language of Section 5(2)(f), members who receive salary increases pursuant to MEPA will be exempt from the anti-spiking provision. In addition to MEPA salary increases, the Legislature also added a provision that exempts salary increases from an “employer’s systemic wage adjustments.”  PERAC interprets “employer’s systemic wage adjustments” to mean that if an employer determines, separate from a MEPA study, that salaries across an employer or segment of the employer need to be adjusted, then those adjustments to salary would not be subject to the anti-spiking provision. 
+
+Steps Retirement Boards Must Take
+
+The effective date of the amendment of G.L. c. 32, § 5(2)(f) is found in Section 12 of the Salary Transparency Act, which provides:
+
+SECTION 12. Section 3 shall take effect July 1, 2018.
+
+Thus, for members who received a salary increase on or after July 1, 2018, pursuant to either MEPA or an employer’s systemic wage adjustment that triggered the anti-spiking provision of G.L. c. 32, § 5(2)(f), their retirement allowances are to be recalculated as they would no longer trigger the anti-spiking provision.
+
+To implement the new language of G.L. c. 32, § 5(2)(f), Retirement Boards must complete the following actions:
+
+Identify retired members of the retirement system who had the anti-spiking provision of Section 5(2)(f) applied to their retirement allowance on or after July 1, 2018.
+Of those members, determine whether any received a salary increase pursuant to either MEPA or an “employer’s systemic wage adjustment.”
+If a member did have a salary increase under MEPA or a “employer’s systemic wage adjustment,” their retirement allowance must be recalculated to remove the downward adjustment for the spiking.
+After adjusting the retirement allowance, the retirement board must refund to the member the underpayment amount of their retirement allowance plus correction of errors interest pursuant to PERAC Memo #14 of 2018.
+The Board must offset from the lump sum payment to be made to the member the amount of any contributions that were returned to the member when anti-spiking was applied.
+We trust the foregoing will be of assistance.  If you have any further questions, please contact General Counsel Judith Corrigan at (617) 591-8904 or at judith.a.corrigan@mass.gov.  Thank you.

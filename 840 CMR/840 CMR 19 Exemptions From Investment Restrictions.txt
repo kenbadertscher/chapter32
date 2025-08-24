@@ -1,0 +1,137 @@
+Regulation
+Regulation 840 CMR 19.00: Exemptions From Investment Restrictions
+Date:	
+07/10/1998
+Organization:	
+Public Employee Retirement Administration Commission
+Regulatory Authority:	
+MGL c. 7, § 50
+MGL c. 32, §§ 21 and 23
+Official Version:	
+Purchase the official print version
+This is an unofficial version of Commonwealth regulations and is posted here for the convenience of the public. It is not an official statement of the regulations.
+
+Skip table of contents
+Table of Contents
+19.01 Effect of Existing Exemptions
+19.02 Complete Exemption by Commission
+19.03 Revocation of Exemption
+19.04 Determination of Qualifications of Investment Manager; Review of Application
+19.05 Rating of Investment Performance and Qualifications
+Contact
+Contact
+
+top
+Table of Contents
+19.01 Effect of Existing Exemptions
+(1) Any board which has received an exemption from restrictions on investments of M.G.L. c. 32, § 23(2)(b)(i) through (vii) on or before the effective date of 840 CMR 19.00 shall be deemed to have applied for and received an exemption for investment in the asset class which was the subject of the prior exemption. In the event any such board, following the completion of a competitive process as required by these regulations, selects a qualified investment manager appearing on a list of qualified investment managers promulgated by the Public Employee Retirement Administration Commission the board may retain said qualified investment manager without receiving a further exemption, provided, however, that the board has complied with other provisions of 840 CMR. Said list shall consist of all qualified investment managers which have been the subject of approved applications for exemption on or before the effective date of 840 CMR 19.00 and any qualified investment manager which is the subject of an approved application for exemption after that date
+
+(2) Boards shall use the following process in selecting qualified investment managers to invest in equity, fixed income, cash or cash equivalents. Boards shall establish specifications and criteria for selection including: 
+
+(a) the total size of the portfolio to be managed by each prospective manager; 
+
+(b) the number of managers that will be used for the total portfolio; 
+
+(c) an initial determination as to whether existing managers will be retained automatically or reviewed as part of the overall selection process; 
+
+(d) the type(s) of manager to be selected; 
+
+(e) the size of the management firm desired; 
+
+(f) the style or investment philosophy of the manager desired; 
+
+(g) the methodology or investment process desired; 
+
+(h) the range of fees that are considered tolerable; 
+
+(i) the investment manager's use of soft dollar services; and 
+
+(j) the manager's experience in policy restrictions including South Africa, Northern Ireland and tobacco restrictions.
+
+(3) Boards shall use the following process in selecting qualified investment managers to invest in real estate. Boards shall establish specifications and criteria for selection including: 
+
+(a) the total size of the portfolio to be managed by each prospective manager; 
+
+(b) the type of real estate investment made by each qualified investment manager (unleveraged, leveraged, participating mortgage, straight-rate loans, or insured loans); 
+
+(c) the construction stage of the properties (tenanted, rent-up phase, under construction or to be built); 
+
+(d) the types of property to be selected (retail, office, residential or industrial); 
+
+(e) the geographic distribution of properties (regional, limited geographic diversification, or national); 
+
+(f) the number of properties to be selected by each investment manager; and 
+
+(g) the range of fees that are considered tolerable.
+
+(4) Real estate investments shall not exceed 5% of the total market value of the portfolio at the time of investment, provided that in any system with assets in excess of $50,000,000, real estate investments may be made up to an amount equal to 10% of the total market value of the portfolio at the time of investment.
+
+(5) Real estate investments shall be diversified by property type, geographic location and construction stage unless under the circumstances it is clearly prudent not to do so.
+
+(6) No board shall invest in a group trust, limited partnership, or other form of pooled investment which invests in real estate if: 
+
+(a) the board's investment would constitute more than 10% of the funds thereof; 
+
+(b) the investments of all Massachusetts contributory retirement systems would constitute more than 50% of the funds thereof; or 
+
+(c) more than 20% of the funds thereof are invested in a single investment.
+
+(7) Boards shall use the following process in selecting qualified investment managers to invest in alternative investments: 
+
+(a) Boards shall establish specifications and criteria for selection including: 
+
+1. the total size of the portfolio to be managed by each alternative investment manager; 
+
+2. the funding stage orientation (seed financing, start-up, other early stage, second stage financing, later stage financing, or other); 
+
+3. the targeted industries or sectors; 
+
+4. the location or region (geographic focus); 
+
+5. target size of each investment, how much is generally invested and how much is kept in reserve; 
+
+6. the range of fees that are considered tolerable, provided, however, that in no event shall a Board retain a qualified investment manager whose fee is based on a percentage of committed capital, provided, however, that such a fee may be paid for one year after the partnership commences operations, and provided further, that such a fee is paid by all investors; 
+
+7. the expected return on investment.
+
+(8) Alternative investments shall not exceed 3% of the total market value of the portfolio at the time of the investment provided that, in any system with assets in excess of $25,000,000, alternative investments may be made up to an amount equal to 5% of the total market value of the portfolio at the time of investment.
+
+(9) Alternative investments shall be diversified by funding stage, geographic location and targeted industries unless under the circumstances it is clearly prudent not to do so.
+
+(10) No board shall invest in a group trust, limited partnership, or other form of pooled investment which invests in alternative investments if: (a) the board's investment would constitute more than 10% of the funds thereof; (b) the investments of all Massachusetts contributory retirement systems would constitute more than 50% of the funds thereof; or, more than 20% of the funds thereof are invested in a single investment.
+
+(11) Boards shall select a qualified investment manager in accordance with competitive practices and shall notify the Commission that such practices were followed prior to contracting with a vendor and shall maintain a separate file for each such selection which details the process and which shall be subject to audit.
+
+19.02 Complete Exemption by Commission
+The Commission shall grant exemption from the restrictions on investment of M.G.L. c. 32, § 23(2)(b)(i) through (vii), inclusive as follows:
+
+(1) Complete Exemption. Boards assigned 70% or more of the total applicable points pursuant to the criteria developed in accordance with 840 CMR 19.05 shall be granted complete exemption.
+
+(2) No Exemption. Boards assigned less than 70% of the total applicable points pursuant to the criteria developed in accordance with 840 CMR 19.05 shall be granted no exemption.
+
+(3) The Commission shall also consider other factors, including but not limited to, any regulatory action, litigation, or legal proceedings involving the qualified investment manager in the past five years and any other matters relating to the qualifications of the investment manager and shall determine whether any such matters warrant denial of an exemption. The Commission shall notify the board and the qualified investment manager of the reasons for any such denial of exemption. The Commission may withhold approval of an exemption if it is in the best interests of the retirement system.
+
+(4) The Commission shall notify the board of its determination no later than ten days following receipt of all information needed to make such determination.
+
+(5) The provisions of M.G.L. c. 32, § 23(2)(b)(i) through (vii) shall not apply to the retention of a qualified investment manager to invest assets of a board in fixed income securities or equities of United States Corporations provided those securities or shares are not an investment in alternative investments or real estate.
+
+19.03 Revocation of Exemption
+(1) If the Commission has reason to believe that a board granted exemptions pursuant to 840 CMR 19.00, or the investments of any board, do not comply with the requirements of M.G.L. c. 32, § 23(2), or with the requirements of 840 CMR 19.00, the Commission may require the board to show cause why the exemptions should not be revoked. If the board fails to establish that its investments do so comply, the Commission may revoke the exemptions and the board shall thereafter be subject to the restrictions on investments of M.G.L. c. 32, § 23(2)(b)(i) through (vii).
+
+(2) If the Commission determines that an action of a qualified investment manager, including but not limited to, involvement in any regulatory action, litigation or legal proceedings, change in principals or senior investment professionals, or performance significantly impairs or changes the manager's ability to perform, the Commission may remove the qualified investment manager from the list promulgated in accordance with 840 CMR 19.01.
+
+(3) Any board upon revocation or withdrawal of an exemption shall annually file a report with the Commission which outlines which investments not authorized pursuant to the restrictions of M.G.L. c. 32, § 23(2)(b)(i) through (vii) are held by the board and why they continue to be held.
+
+(4) In the event a qualified investment manager is no longer retained by any retirement board, the qualified investment manager shall be removed from the list promulgated in accordance with 840 CMR 19.01.
+
+19.04 Determination of Qualifications of Investment Manager; Review of Application
+(1) Investment Manager. The Commission shall determine, for every application for exemption, whether the board has a qualified investment manager as defined by 840 CMR 16.01.
+
+(2) Review of Application. If the Commission determines that the board has a qualified investment manager, the Commission shall review the selection process of the qualified investment manager, review the information contained in the application for exemption, consider the diversification of the investments of the board, and professional qualifications of the qualified investment manager in accordance with 840 CMR 19.05.
+
+19.05 Rating of Investment Performance and Qualifications
+In rating investment performance and qualifications the Commission shall develop and disseminate objective criteria uniformly to be applied in an equitable fashion. These criteria shall include, but not be limited to, the investment performance of the system, investment performance of investment manager for asset classes which investment manager will manage, professional qualifications of investment manager, public and private pension accounts managed by investment manager as of the year preceding the year of application, registration of investment adviser under the Investment Advisers Act of 1940, investment manager's review and control procedures, daily supervision of portfolio and trading capability.
+
+REGULATORY AUTHORITY
+840 CMR 19.00: M.H.L. c. 7, § 50; c. 32, §§ 21 and 23.
+(840 CMR 20.00: RESERVED)

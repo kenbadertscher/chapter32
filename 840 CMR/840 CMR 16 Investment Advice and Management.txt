@@ -1,0 +1,134 @@
+Regulation
+Regulation 840 CMR 16.00: Investment Advice and Management
+Date:	
+07/10/1998
+Organization:	
+Public Employee Retirement Administration Commission
+Regulatory Authority:	
+MGL c. 7, § 50
+MGL c. 32, §§ 21 and 23
+Official Version:	
+Purchase the official print version
+840 CMR 16.00 is the standard rule for investment advice and management promulgated by the Public Employee Retirement Administration Commission pursuant to M.G.L. c. 7, § 50 and M.G.L. c. 32, §§ 21 and 23. Except as may otherwise be provided by the Commission, or by supplementary rules of a particular retirement board approved by the Commission pursuant to 840 CMR 14.02, or by statute, 840 CMR 16.00 shall govern investment advice and management provided to any retirement board in the Commonwealth.
+
+This is an unofficial version of Commonwealth regulations and is posted here for the convenience of the public. It is not an official statement of the regulations.
+
+Skip table of contents
+Table of Contents
+16.01 Definition
+16.02 Employment of Qualified Investment Manager; When Permitted or Required; Delegation of Responsibility; Expenses; Contract
+16.03 Authority of Investment Managers to Invest Funds
+16.04 Use of Custodian Banks; Nominees; Securities Depository
+16.05 Use of Brokers
+16.06 Petitions for Additions to Legal List
+16.07 Review of Investment Performance; Investment Managers
+16.08 Procurement of Investment Related Services
+16.09 Notice to Cease and Desist
+16.10 Investment of Funds by Exempt Boards
+Show More  Table of contents
+Contact
+
+top
+Table of Contents
+16.01 Definition
+Unless a different meaning is plainly required by the context, words and phrases used in 840 CMR 16.00 through 25.00, shall have the meanings assigned them by 840 CMR 16.01. If no meaning is assigned by 840 CMR 16.01 they shall have the meanings assigned them by M.G.L. c. 32 and if no meaning is so assigned, they shall have their ordinary meanings.
+
+Person means an individual, partnership, joint venture, corporation, association, trust, estate or organization of members of a retirement system.
+
+Qualified investment manager means:
+
+(a) a person registered as an investment adviser pursuant to the Investment Advisers Act of 1940 (15 U.S.C. 80b - 1 et seq.);
+
+(b) a bank as defined by the Investment Advisers Act of 1940;
+
+(c) an insurance company qualified to manage, acquire, or dispose of assets of a plan pursuant to the laws of more than one state;
+
+(d) a partnership, joint venture, corporation, association or trust in which the advisor or general partner is exempt from registration pursuant to 203(b)(3) of the Investment Advisers Act of 1940 (15 U.S.C. 80b - 1 et seq.)
+
+16.02 Employment of Qualified Investment Manager; When Permitted or Required; Delegation of Responsibility; Expenses; Contract
+(1) Any board may employ a qualified investment manager as defined in 840 CMR 16.01 to advise the board on the purchase and sale of investments.
+
+(2) Any board which has received an investment exemption pursuant to 840 CMR 19.00 shall employ a qualified investment manager or qualified investment managers who shall manage the funds of the system.
+
+(3) No person who is not a qualified investment manager as defined by 840 CMR 16.01 shall advise any board on the purchase and sale of investments or manage the funds of any system which has received an exemption pursuant to 840 CMR 19.00.
+
+(4) No board which has not received an exemption pursuant to 840 CMR 19.00 may delegate responsibility for the investment of the funds of the system provided, however, that any board may participate in or purchase units of the PRIT Fund.
+
+(5) Employment of a qualified investment manager shall be by written contract executed prior to the delegation of investment authority to the qualified investment manager stating all terms and conditions of employment including, but not limited to, investment objectives, brokerage practices, proxy voting and tender offer exercise procedures, term of employment, fees and termination provisions. Every such contract shall provide that the qualified investment manager is a fiduciary with respect to the funds the board invests pursuant to the qualified investment manager's advice regarding the purchase and sale of investments or the funds which the qualified investment manager manages, as the case may be. No contract shall contain a provision which requires the indemnification of the manager by the retirement board. A copy of every contract shall be retained by the board and be subject to audit by the Commission.
+
+(6) All qualified investment managers shall annually submit a current Form ADV Part II of the Uniform Application for Investment Adviser Registration to the board for which it manages assets and to the Public Employee Retirement Administration Commission.
+
+16.03 Authority of Investment Managers to Invest Funds
+(1) Every board which has received an exemption pursuant to 840 CMR 19.00 shall by vote authorize a qualified investment manager as defined in 840 CMR 16.01 to invest and reinvest the funds of the system on behalf of the board in accordance with the board's statement of investment objectives.
+
+(2) Every investment made by a qualified investment manager on behalf of a board shall comply with the requirements of M.G.L. c. 32, § 23 and 840 CMR 16.00 through 25.00.
+
+16.04 Use of Custodian Banks; Nominees; Securities Depository
+(1) Every board shall designate one or more banks or trust companies, organized under the laws of the Commonwealth or of the United States, custodian of the securities and assets of the system, and shall designate as members of any nominee holding securities of the system any authorized employee of such custodian. All assets of the system shall be held by the custodian on behalf of the board. Each board shall direct its custodian to provide the Commission with the reports and information required pursuant to 840 CMR 4.00 and if possible, said reports and information shall be provided by electronic means or electronic access granted to the Commission.
+
+(2) Any board may authorize a custodian designated pursuant to 840 CMR 16.04(1) to place the securities of the system in a securities depository registered with the Securities and Exchange Commission for the purpose of facilitating security trading and certificate delivery.
+
+(3) In the event a board changes its custodian it shall make every effort to effectuate that change as of January 1.
+
+16.05 Use of Brokers
+(1) Retirement system board members and employees shall not:
+
+(a) direct brokerage commissions for services, or
+
+(b) instruct its qualified investment manager or managers to direct brokerage commissions.
+
+(2) Selection of brokers shall be based on competitive criteria including best price and execution.
+
+(3) Commission rates shall be negotiated.
+
+(4) Board members shall review on an on-going basis all brokerage costs.
+
+(5) Board members shall review on an on-going basis the selection of brokers and use of "soft dollars" (arrangements under which products or services other than execution of securities transactions are obtained from or through a broker in exchange for the direction of brokerage transactions to the broker) by its qualified investment manager or managers.
+
+(6) Board members shall require the qualified investment manager or managers or brokers to disclose in writing to the board all commissions charged on all transactions and investments made.
+
+(7) Board members shall require the qualified investment manager or managers or brokers to disclose in writing to the board mark-ups and mark-downs on all trades where the broker acted as dealer/principal.
+
+(8) Notwithstanding the provisions of 840 CMR 16.00 boards may participate in so-called "commission recapture" programs provided that such participation is consistent with the board's fiduciary duty and other provisions of 840 CMR
+
+16.06 Petitions for Additions to Legal List
+Every board which petitions the Office of the Commissioner of Banks for inclusion of securities on the Legal List shall forward a copy of the petition and the final determination by the Commissioner of Banks as to inclusion on the Legal List to the Commission.
+
+16.07 Review of Investment Performance; Investment Managers
+(1) Every retirement board shall at least quarterly review the performance of the overall portfolio and selected components against the retirement system's investment goals and policies.
+
+(2) Every retirement board which has received an exemption pursuant to 840 CMR 19.00 shall meet with its qualified investment manager or managers at least annually and shall, at a minimum: 
+
+(a) require its qualified investment manager or managers to provide a comprehensive written quarterly report which includes a review of investment performance including a review of the investment manager's relative performance, a review of the system's investments, and a report on the investment manager's current investment outlook or forecast as well as strategy for the future; 
+
+(b) review each such report in depth with its qualified investment manager or managers; and 
+
+(c) require its qualified investment manager or managers to send one such report to the Commission each year.
+
+(3) Every retirement board which has retained a qualified investment manager shall at least annually make a determination as to whether the manager continues to operate in the manner represented when retained and outlined in the agreement between the board and the qualified investment manager.
+
+(4) Every retirement board which has retained a qualified investment manager shall require said manager to report key personnel staffing changes to the retirement board and the Commission on or before the effective date of such changes.
+
+16.08 Procurement of Investment Related Services
+The selection and hiring of investment managers, consultants, custodian banks and other investment related service providers by all retirement boards shall be subject to a competitive process which satisfies the boards' fiduciary duty and meets the requirements of M.G.L. c. 32 and 840 CMR. Prior to retention of the vendor Boards shall notify the Commission that such a process as well as the provisions of M.G.L. c. 32 and 840 CMR were adhered to. A procurement file for each such selection shall be maintained by the board and be subject to audit. Said file shall contain the request for proposals, selection process, selection criteria and other information relative to the board meeting its fiduciary responsibility with respect to the selection. A person submitting a bid or proposal to provide services to a board shall certify, in writing, on the bid or proposal, as follows:
+
+   The undersigned certifies under penalties of perjury that this bid or proposal has been submitted in good faith and without collusion or fraud with any    other person. As used in this certification, the word "person" shall mean any natural person, business, partnership,corporation, union, club, or other    organization, entity or group of individuals.    
+   ________________________________________
+   (Signature of individual submitting bid or proposal)
+   _________________________________________
+   (Name of business)
+
+16.09 Notice to Cease and Desist
+If the Executive Director of the Public Employee Retirement Administration Commission has reason to believe that any person including, without limitation, any board or member or qualified investment manager thereof, has invested or is investing the funds of a system without authorization or in violation of any provision of M.G.L. c. 32, or 840 CMR 16.00 through 25.00, inclusive, the Executive Director shall issue a notice to such person to cease and desist from doing so and, if the Executive Director finds that protection of system funds so require, the Executive Director may:
+
+(1) remove any such person from advising any retirement system or managing the funds of any system;
+
+(2) revoke any exemption granted to such board pursuant to 840 CMR 19.00; or
+
+(3) petition the Superior Court to compel the observance and restrain the violation of any provision of M.G.L. c. 32, § 23, or 840 CMR 16.00 through 25.00.
+
+16.10 Investment of Funds by Exempt Boards
+Notwithstanding the provisions of 840 CMR 19.00, retirement boards which have received an exemption in accordance with 840 CMR 19.00 may retain investment responsibility for sufficient assets necessary to cover current disbursements.
+
+REGULATORY AUTHORITY 
+840 CMR 16.00: M.G.L. c. 7, § 50; c. 32, §§ 21 and 23.

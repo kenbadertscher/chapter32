@@ -1,0 +1,145 @@
+Regulation
+Regulation 840 CMR 4.00: Financial Operations/Standard Method of Accounting
+Date:	
+03/29/2024
+Organization:	
+Public Employee Retirement Administration Commission
+Regulatory Authority:	
+M.G.L. c. 32, s. 21
+M.G.L. c. 7, s. 50
+Official Version:	
+Purchase the official print version
+840 CMR 4.00, establishing standard methods of accounting for boards, is promulgated by PERAC pursuant to M.G.L. c. 7, § 50 and M.G.L. c. 32, § 21. Except as may otherwise be provided by PERAC, or by supplementary rules of a particular retirement board approved by the PERAC pursuant to 840 CMR 14.02: Supplementary Rules, or by statute, 840 CMR 4.00 shall govern methods of accounting of all retirement boards.
+
+REGULATORY AUTHORITY
+
+840 CMR 4.00: M.G.L. c. 7, §50; c. 32, §§ 21.
+
+Skip table of contents
+Table of Contents
+4.01 Definitions
+4.02 Entries and Posting of Accounts; Trial Balance and General Ledger
+4.03 Copies to be Sent to PERAC
+4.04 Failure to File Financial Reports
+4.05 Copies to be Shared with Board Members
+4.05 Copies to be Shared with Board Members
+
+top
+Table of Contents
+4.01 Definitions
+Accounting Period – January 1st through December 31st.
+
+Adjusting Journal – contains all entries that do not involve cash.
+
+Cash Books – includes the following reports:  cash receipts, cash disbursements, adjusting journal entries, trial balance and general ledger.
+
+Cash Disbursements Journal – contains entries of all cash disbursements from the system.
+
+Cash Receipts Journal – contains entries of all cash receipts into the system.
+
+Extension – when PERAC allows a board, upon a written request, to submit the Annual Statement by June 1 rather than May 1.
+
+General Ledger – a means for keeping record of the system’s total financial accounts. It includes all accounts, entries and balances for: Assets, Liabilities, Funds, Receipts and Disbursements.
+
+Pre-Close Trial Balance/General Ledger – lists all ledger accounts and balances before the closing entries are made.
+
+Post-Close Trial Balance/General Ledger – produced after the closing entries are made to zero out the receipts and disbursements accounts.
+
+Trial Balance – list of all ledger accounts showing a beginning balance, debits, credits, and ending balance.
+
+4.02 Entries and Posting of Accounts; Trial Balance and General Ledger
+Every board shall establish, number, and maintain ledger accounts in the form prescribed by PERAC.
+
+Transactions shall be entered daily.
+A Trial Balance shall be run monthly.
+A General Ledger shall be run monthly.
+4.03 Copies to be Sent to PERAC
+After all entries for the month have been posted , the board shall send to PERAC in the prescribed format the following for the month:
+a) monthly cash receipts ;
+
+b) monthly cash disbursements;
+
+c) monthly adjusting journal entries;
+
+d) monthly general ledger; and
+
+e) year-to-date trial balance.
+
+The following chart indicates the due dates for the monthly cash books:
+
+Month of Accounting
+
+Due Date
+
+January
+
+May 31st
+
+February
+
+May 31st
+
+March
+
+June 30th
+
+April
+
+June 30th
+
+May
+
+July 31st
+
+June
+
+July 31st
+
+July
+
+August 31st
+
+August
+
+September 30th
+
+September
+
+October 31st
+
+October
+
+November 30th
+
+November
+
+December 31st
+
+December*
+
+March 31st
+
+Month of Accounting
+
+Due Date
+
+*Along with the December cash books, the board should also provide a January-December post-close trial balance and general ledger.
+
+The State and Teachers systems will not be subject to this timeline as they operate on the State Fiscal Year
+
+The board shall send or have sent to PERAC a copy of all custodian statements received by the board within four weeks of the close of the month. Such statements shall be separated into the following five categories: cash, short term investments*, fixed income investments, equities, and pooled funds. Such statements shall include, but not be limited to:
+a) monthly custodian bank statements which detail transaction activity including investment income, investments purchased, accrued interest paid, investments sold, book value of investments sold, profit/loss on investments sold, accrued interest sold, cusip numbers, name of brokers and commissions paid, trade receivables and payables, trade dates, settlement dates and actual settlement dates.
+
+*Short term investments are defined as U.S. Treasury Bills, Commercial Paper, Certificates of Deposit,Repurchase Agreements, Cooperative Shares, Savings and Loan Shares, Money Market and Term Deposits.
+
+b) monthly account appraisal which provides an alphabetical listing of assets held for each category; information for each asset should include a complete description of the asset, cusip numbers, number of shares, book value and market value.
+
+The board shall send or have sent to PERAC a copy of all manager statements received by the board within four weeks of the close of the month. Such statements shall detail the activity of the retirement system including purchases and sales of fund shares, income, dividend re-investments, fund expenses, and ownership interest of the retirement system in any commingled funds, including, but not limited to, separate accounts, bank pooled funds, mutual funds, group trusts and limited partnerships.
+The board shall send or have sent to PERAC a copy of all Consultant statements received by the board within four weeks of the close of the month. Such statements shall include quarterly and year-to-date performance figures, listing of assets, asset allocations, and individual asset appraisal values.​​​​​​​
+4.04 Failure to File Financial Reports
+Any retirement board failing to file the financial statements and reports required by M.G.L. c. 32, § 20(5)(g), or by 840 CMR 4.03 shall be subject to  the penalties provided by M.G.L. c. 32, § 24(2).
+
+4.05 Copies to be Shared with Board Members
+Board staff shall share completed monthly cash books with all Board members.
+
+Additionally, Board staff shall share cash reconciliations, as well as a quarterly comparison of budgeted amounts to actual spending with all board members.

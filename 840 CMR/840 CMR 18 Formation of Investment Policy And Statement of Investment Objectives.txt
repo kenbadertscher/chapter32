@@ -1,0 +1,99 @@
+Regulation
+Regulation 840 CMR 18.00: Formation of Investment Policy And Statement of Investment Objectives
+Date:	
+07/10/1998
+Organization:	
+M.G.L. c. 32, s.21(4)
+Regulatory Authority:	
+MGL c. 7, § 50
+MGL c. 32, §§ 21 and 23
+Official Version:	
+Purchase the official print version
+840 CMR 18.00 is the standard rule for the formation of investment policy and statement of investment objectives promulgated by the Public Employee Retirement Administration Commission pursuant to M.G.L. c. 7, § 50 and M.G.L. c. 32, §§ 21 and 23. Except as may otherwise be provided by the Commission, or by supplementary rules of a particular retirement board approved by the Commission pursuant to 840 CMR 14.02, or by statute, 840 CMR 18.00 is the standard rule for the formation of investment policy and statement of investment objectives.
+
+This is an unofficial version of Commonwealth regulations and is posted here for the convenience of the public. It is not an official statement of the regulations.
+
+Skip table of contents
+Table of Contents
+18.01 General Requirement
+18.02 Matters to be Included in Statement of Investment Objectives
+18.03 Updates of Statement of Investment Objectives
+Contact
+Contact
+
+top
+Table of Contents
+18.01 General Requirement
+(1) Every board shall file a statement of investment objectives with the Public Employee Retirement Administration Commission.
+
+(2) Before designing an investment program and writing a statement of objectives, every board shall consider its most recent actuarial valuation, meet with the board's consultant, if any, and address the following questions: 
+
+(a) What stage of growth best describes the system: start-up, early growth, sustained growth, maturity, or decline? 
+
+(b) What are the estimates of growth in the workforce, benefit increases, inflation and other economic factors?
+
+(c) What is the projected level of cash payments to beneficiaries for the next 20 years (the "liabilities stream")? 
+
+(d) What assumption regarding "real investment return" (total return less wage inflation rate) is used by the actuary to make funding estimates? 
+
+(e) Is the system underfunded? 
+
+(f) What has been the history of employer and employee payments into the system? Is there any reason to expect that these will change? 
+
+(g) What is the long-term demographic forecast for the system area? What may affect the tax base including such factors as population and business growth, rate of growth or decline and condition of housing stock and industrial facilities?
+
+(3) Asset allocation decisions shall be made based on a liability-sensitive approach which tailors asset allocation for the portfolio to the system's liability profile. Boards shall conduct an initial study of the asset universe and establish the asset allocation in a manner that recognizes the financial structure of the system. Asset allocation decisions shall establish target levels and ranges for asset percentages.
+
+18.02 Matters to be Included in Statement of Investment Objectives
+Every statement of investment objectives shall be filed on Form 18, shall be signed by each board member and shall include the following information:
+
+(1) Fiduciaries. The name, address, background and responsibilities of every retirement board fiduciary, including every qualified investment manager employed or expected to be employed by the board.
+
+(2) Terms of Employment and Compensation. The terms of employment and compensation of every: 
+
+(a) qualified investment manager; 
+
+(b) consultant employed by the board; 
+
+(c) custodian bank employed by the board; 
+
+(d) actuary employed by the board; 
+
+(e) attorney employed or used by the board; and 
+
+(f) other contractor employed by the board.
+
+(3) Investment Policy. A statement of investment policy indicating how investment objectives are to be accomplished including the investment philosophy and method of investment, whether a consultant will be employed, whether a qualified investment manager will be employed, the method to be used to select brokers on a competitive basis for investment transactions, guidelines for proxy voting and tender offer exercise procedures and other practices of the board.
+
+(4) Rate of Return. A statement of the rate of return objective for each asset class and for the entire portfolio, provided that the statement also include the assumed rate of return used in the most recent actuarial valuation of the system. The rate of return objective for the entire portfolio should not exceed the assumed rate of return used in the most recent actuarial valuation of the system by more than 1.00%.
+
+(5) Risk. The expected level of risk for the equity portion of the portfolio expressed in terms of an annual average beta coefficient, standard deviation, or other statistical risk measures and the expected duration of the fixed income portfolio. Risk levels shall also be established for other asset classes and the total portfolio.
+
+(6) Asset Mix. The expected portfolio asset mix, expressed as a percentage of the entire portfolio, of equities, fixed income investments, cash and short term investments, real estate, alternative investments, and international investments.
+
+(7) Diversification. The expected degree of diversification within each asset class for: 
+
+(a) equities, including capitalization, industry diversification, number of issues and rate of turnover; 
+
+(b) fixed income investments, including quality ratings, maturity schedule, industry diversification, number of issues, par value of issues and rate of turnover; 
+
+(c) cash and cash equivalent investments, including types of instruments and insurance coverage; 
+
+(d) real estate investments; 
+
+(e) alternative investments such as venture capital and leveraged buy - outs; 
+
+(f) international equities, including capitalization, country and industry diversification, number of issues and rate of turnover; 
+
+(g) international fixed income investments, including quality, maturity schedule, country and industry diversification, number of issues, par value of issues and rate of turnover; and 
+
+(h) international cash and cash equivalent investments, including country diversification, types of instruments and insurance coverage.
+
+(8) Other. Such further information as may otherwise be required by the Commission.
+
+18.03 Updates of Statement of Investment Objectives
+Statements of objectives shall be updated by the board as changes occur including, but not limited to, the filing of an Application for Exemption as provided for in 840 CMR 19.00. The board shall notify Commission in writing of any such changes within ten days of the effective date of the change. Boards shall review and, if appropriate, amend the statement of objectives upon completion of each actuarial valuation of the system. In addition on or before December 31 of each year the board shall notify the Commission of whether or not any changes have been made in the statement of objectives and in the event changes have been made said board shall notify the Commission of those changes.
+
+REGULATORY AUTHORITY
+
+840 CMR 18.00: M.G.L. 7, § 50; c. 32, §§ 21 and 23.

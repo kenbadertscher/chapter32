@@ -1,0 +1,87 @@
+Regulation
+Regulation 840 CMR 28.00: Electronic Signatures
+Date:	
+09/30/2022
+Organization:	
+Public Employee Retirement Administration Commission
+Regulatory Authority:	
+MGL c. 7, §50
+MGL c. 32, § 1
+MGL c. 32, § 21
+MGL c. 110G
+Official Version:	
+Purchase the official print version
+This is an unofficial version of Commonwealth regulations and is posted here for the convenience of the public. It is not an official statement of the regulations.
+
+Skip table of contents
+Table of Contents
+28.00 Purpose
+28.01 Definitions
+28.02 Use of Electronic Signatures
+28.03 Legal Effect and Enforceability
+28.04 Attribution of Electronic Signatures
+Section 28.05 Fulfillment of Notarization, Acknowledgement, Verification, or Oath Requirements
+28.06 Use of Wet Signatures Still Authorized
+Contact
+Contact
+
+top
+Table of Contents
+28.00 Purpose
+840 CMR 28.00, et seq. addresses the use of any electronic signature created, generated, sent, communicated, received, or stored by any retirement board governed and constituted under Chapter 32 of the Massachusetts General Laws.  This section will also cover the use of signatures on scanned or faxed documents in the course of a retirement system’s operations.
+
+Statutory and Regulatory Authority:
+
+M.G.L. c. 7, § 50
+
+M.G.L. c. 32, §§ 1, 21
+
+M.G.L. c. 110G
+
+28.01 Definitions
+The following words shall have the following meanings:
+
+''Electronic signature'':
+
+an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record;
+a digital signature that encrypts documents with digital codes that are particularly difficult to duplicate;
+a signature which is received by a retirement board or PERAC via fax, so long as the signature and the document are legible;
+ a signature which is received by a retirement board or PERAC as part of a scanned document, so long as the signature and the document are legible.
+“Faxed document”, an image of a document made by electronic scanning and transmitted as data by telecommunication links.
+
+''Prescribed form'', any form promulgated by PERAC, or any form required by any retirement board and subject to the approval of PERAC.
+
+''Record'', information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+''Security procedure'', a procedure employed for the purpose of verifying that an electronic signature, digital signature, record, or performance is that of a specific person or for detecting changes or errors in the information in an electronic or digital record. The term includes a procedure that requires the use of algorithms or other codes, identifying words or numbers, encryption, or callback or other acknowledgment procedures.
+
+“Scanned document”, a physical document which has been converted into a digital image using a scanner. 
+
+“Wet signature”, created when a person marks a physical document as evidence of that person's personal witness and certification of the content of all, or a specified part, of the document.
+
+28.02 Use of Electronic Signatures
+(a)  In addition to the use of wet signatures, a retirement board may make use of electronic signatures, as defined by 840 CMR 28.01, provided the conditions in subsections (b) and (c) are met:
+
+(b)  A retirement board must promulgate a supplemental regulation regarding its intent to use the same, to be approved by PERAC pursuant to M.G.L. c, 7, § 50.  
+
+(c)  As part of its supplemental regulation, the retirement board must state that it will institute and maintain  appropriate security procedures.
+
+28.03 Legal Effect and Enforceability
+(1) An electronic signature may not be denied legal effect or enforceability under Chapter 32 solely because it is in electronic form if a retirement board has promulgated a supplemental regulation permitting the same.
+
+(2) A prescribed form may not be denied legal effect or enforceability solely because an electronic signature was used in its formation if a retirement board has promulgated a supplemental regulation permitting the same.
+
+28.04 Attribution of Electronic Signatures
+(1) An electronic signature is attributable to a person if it was the act of the person. The act of the person may be shown in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic signature was attributable.
+
+(2) The effect of an electronic record or electronic signature attributed to a person under subsection (1) is determined from the context and surrounding circumstances at the time of its creation, execution, or adoption, including the parties' agreement, if any, and otherwise as provided by law.
+
+Section 28.05 Fulfillment of Notarization, Acknowledgement, Verification, or Oath Requirements
+If a law requires a signature or record to be notarized, acknowledged, verified, or made under oath, the requirement is satisfied if the electronic signature of the person authorized to perform those acts, together with all other information required to be included by other applicable law, is attached to or logically associated with the signature or record.
+
+28.06 Use of Wet Signatures Still Authorized
+(1) Nothing in these regulations shall preclude a retirement board or PERAC from using physical forms with wet signatures for all or some of its forms and transactions. 
+
+(2) A member of a retirement system, or a person becoming a member of a retirement system, or a person who needs to sign a form for a retirement system or PERAC for any reason, retains the right to sign a prescribed form with a wet signature upon his or her request.
+
+(3) If a retirement board has not promulgated a PERAC-approved regulation allowing the use of electronic signatures, the use of wet signatures shall be mandatory.

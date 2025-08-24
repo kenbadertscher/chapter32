@@ -1,0 +1,42 @@
+Memorandum
+Memorandum PERAC Memo #26: The Application of the Anti-Spiking Provision G.L c. 32, § 5(2)(a) in the wake of the Hartnett Decision
+Date:	
+10/01/2024
+Referenced Sources:	
+PERAC Website
+PERAC Memo #26 2024
+
+To All Retirement Boards:
+TO:                             AllRetirement Boards
+
+FROM:                       Bill Keefe, Executive Director
+
+RE:                              The Application of the Anti-Spiking Provision G.L c. 32, § 5(2)(a) in the wake of the Hartnett Decision
+
+DATE:                        October 4, 2024
+
+Introduction
+
+This memorandum addresses the application of the anti-spiking provision of G.L c. 32, § 5(2)(a) in the wake of a recent decision of the Supreme Judicial Court (“SJC”) of Massachusetts, Susan Hartnett v. Contributory Retirement Appeal Board, Boston Retirement System, and Public Employee Retirement Administration Commission, 494 Mass. 612 (Sept. 11, 2024), which rejected PERAC’s long-held application of Section 5(2)(a) for individuals who, after a break in service, return to active service just prior to retirement. 
+
+Anti-Spiking Under Chapter 32
+
+“Spiking” with regard to public pensions has been defined as the receipt by a public employee of large pay increases in the years just prior to retirement to artificially inflate the employee’s compensation in order to receive a larger pension than that employee otherwise would be entitled to receive.  To curtail that practice, the Massachusetts Legislature followed the lead of many other states and enacted what is known as “anti-spiking” legislation in Chapter 176 of the Acts of 2011.  Specifically, Section 14 of Chapter 176 of the Acts of 2011 introduced anti-spiking provisions with an addition to G.L. c. 32, § 5(2)(a), which states in pertinent part:
+
+…if in the 5 years of creditable service immediately preceding retirement, the difference in the annual rate of regular compensation between any 2 consecutive years exceeds 100 per cent, the normal yearly amount of the retirement allowance shall be based on the average annual rate of regular compensation received by the member during the period of 5 consecutive years preceding retirement.
+
+In determining the application of this anti-spiking statute to members, PERAC long instructed retirement boards that the phrase “2 consecutive years” must be read in the context of the “5 years of creditable service immediately preceding retirement.”  As such, if a member left service in 1992, returned to work in the public sector in 2012, and retired in 2015, the “2 consecutive years” would include 1992 and 2012 for purposes of the anti-spiking statute.
+
+The SJC, however, concluded that to determine whether an individual has spiked, the “2 consecutive years” does not mean 2 consecutive years of creditable service, but rather “2 consecutive years” in “the 5 years of creditable service immediately preceding retirement.”  As such, if a member left service in 1992, returned to work in the public sector in 2012, and retired in 2015, the “2 consecutive years” cannot be 1992 and 2012 as they are not consecutive calendar years. 
+
+Steps Retirement Boards Must Take
+
+To implement the Hartnett decision, retirement boards must complete the following actions:
+
+Identify retired members of the retirement system who had the anti-spiking provision of G.L. c. 32, § 5(2)(a) applied to their retirement allowance.
+Of those members, determine whether the member’s spike in “2 consecutive years” was consecutive calendar years or non-consecutive calendar years.
+If the member’s spike in “2 consecutive years” occurred between immediately concurrent calendar years, then their retirement allowance does not need to be adjusted.
+If the member’s spike in “2 consecutive years” occurred between non-consecutive calendar years, then their retirement allowance must be recalculated to remove the downward adjustment for the spiking.  (This occurs so long as there is no other spike between “2 consecutive years” in the “5 years of creditable service immediately preceding retirement.”)
+After adjusting the retirement allowance, the retirement board must pay to the member the underpayment amount of their retirement allowance plus correction of errors interest pursuant to PERAC Memo #14 of 2018.
+The retirement board must offset from the lump sum payment to be made to the member the amount of any contributions that were returned to the member when anti-spiking was applied.
+We trust the foregoing will be of assistance.  If you have any further questions, please contact General Counsel Judith Corrigan at (617) 591-8904 or at judith.a.corrigan@mass.gov.  Thank you.

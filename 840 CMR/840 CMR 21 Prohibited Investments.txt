@@ -1,0 +1,49 @@
+Regulation
+Regulation 840 CMR 21.00: Prohibited Investments
+Date:	
+07/10/1998
+Organization:	
+Public Employee Retirement Administration Commission
+Regulatory Authority:	
+MGL c. 7, § 50
+MGL c. 32, §§ 21 and 23
+Official Version:	
+Purchase the official print version
+840 CMR 21.00, establishing a list of prohibited investments, is promulgated by the Public Employee Retirement Administration Commission pursuant to M.G.L. c. 7, § 50 and M.G.L. c. 32, §§ 21 and 23. Except as may otherwise be provided by the Commission, or by supplementary rules of a particular retirement board approved by the Commission pursuant to 840 CMR 14.02, or by statute, 840 CMR 21.00 shall prohibit investments of retirement system funds invested pursuant to M.G.L. c. 32, § 23, whether or not exempt pursuant to 840 CMR 19.00.
+
+This is an unofficial version of Commonwealth regulations and is posted here for the convenience of the public. It is not an official statement of the regulations.
+
+21.01 Prohibited Investments
+No investment by any board or by any bank pooled fund, mutual fund, group trust, limited partnership, insurance company separate account or other form of pooled investment of any board shall consist of any of the following:
+
+(1) Purchases of securities by partial payment of their cost (purchases on margin).
+
+(2) Sale of securities not owned by the system at the time of sale (short sales).
+
+(3) Future contracts other than as follows:
+
+(a) Forward currency contracts may be written against securities in the international portfolio by an investment advisor registered under the Investment Advisors Act of 1940 and who has been the subject of an exemption for international investment.
+
+(b) Forward currency contracts may be written against securities in an international portfolio to a maximum 25% of the international portfolio non-dollar holdings at market value. Speculative currency positions unrelated to underlying portfolio holdings are strictly prohibited.
+
+(4) Call options written against securities in the portfolio other than as follows:
+
+(a) Call options may be written against equity securities (excluding international equities) in the portfolio by a qualified investment adviser registered under the Investment Advisers Act of 1940.
+(b) Call options may be written against equity securities (excluding international equities) in the portfolio to a maximum of 25% of the market value of the equity portfolio (excluding international equities) 
+(c) Only options listed on a U.S. registered exchange may be written.
+
+(5) Purchases of options other than as required to close out options positions.
+
+(6) Lettered or restricted stock (with the exception of those investments that are venture capital investments).
+
+(7) Direct investment in mortgages.
+
+(8) Collateral loans (with the exception of those investments that are leveraged buyout investments), provided, however that boards may participate in so-called "securities lending" programs through a custodian and provided, further, that the lending of securities is limited to brokers, dealers, and financial institutions and that the loan is collateralized by cash or United States Government securities according to applicable regulatory requirements.
+
+(9) Loans to employees or individuals.
+
+(10) Direct purchase or lease of real estate.
+
+REGULATORY AUTHORITY 
+840 CMR 21.00: M.G.L. c. 7, § 50; M.G.L. c. 32, §§ 21 and 23. 
+(840 CMR 22.00: RESERVED)

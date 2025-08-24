@@ -1,0 +1,41 @@
+Memorandum
+Memorandum PERAC Memo #31: 2024 Disability Data Changes
+Date:	
+12/12/2024
+Referenced Sources:	
+The Annual Statement of Earned Income
+Memorandum
+TO:                  All Retirement Boards
+
+FROM:            William T. Keefe, Executive Director
+
+RE:                 2024 Disability Data Changes
+
+DATE:            December 12, 2024
+
+To make an accurate determination on the statutory limit of your member’s post-retirement earnings as a disabled public retiree, we need to maintain an accurate and current disability retiree database.  We respectfully request that you review the list of your board’s disability retirees in PROSPER and make all necessary address and status changes that occurred in the year 2024.  These changes should be made when a member is deceased, confined to a nursing home, has waived his/her allowance, has returned to active status, and/or has had a change of address.
+
+To locate the list in PROSPER you will need to enter through the Members tab, select Member Update, and then after clicking on Export Member Info, a CSV file will be created.  This file will show what information we have regarding your disability retirees. (Screenshot shown below - Table A).
+
+If an address needs to be changed you can now do it yourself by searching for an individual under the Member Update Refinement within the Members tab.  From there, you will be able to enter the new address.  (Screenshot shown below - Table B).
+
+If a member is deceased, you will need to update PROSPER by accessing the member through the Members tab, clicking on Member Search, entering the member’s name and clicking Search.  After you select the member you are looking for, a window will open where you can enter the date of death and upload either a death certificate or a death notice.
+
+If a member has a Power of Attorney (POA), and needs an address change please notify Sandra King, at Sandra.E.King@mass.gov and she will make the change.  If the exported list indicates that there is a POA, then the POA documents are not needed.  However, if you are adding a POA for a member the POA documents must be emailed in .PDF format to Ms. King.   
+
+Please note, due to Chapter 176 of the Acts of 2011, certain disability retirees no longer need to file the Annual Statement of Earned Income.  As a result, your report will show who has filed an Affidavit.  You may also notice a member may have a Special Status such as Waived, Modified, Nursing Home, or Special Act.  If any of these Statuses are incorrect or need to be adjusted, please comment next to such member, and email the list back to Ms. King.
+
+If any member is missing from the list, please add them at the bottom of the list with a comment and email it back to Ms. King.  It is imperative that all information be updated or returned to PERAC no later than January 17, 2025, to ensure accuracy in our member database prior to our mailing of the 2024 Annual Statements of Earned Income (91A).  
+
+NEW FOR THE 2024 FILING YEAR, all Disability Retirees will be able to file their 91A form electronically.  PERAC will be mailing and emailing a post card in January to all members on your list notifying them of this option.  When updating your members in Prosper please include email addresses.  PERAC strongly encourages all Disability retirees to take advantage of the electronic filing, since they will receive an instant response that their submission has been received.
+
+Also, if you have no changes to any of your disability retirees, please send an email to Ms. King stating there will be no changes.  Should you have any questions, or if you need any assistance, please do not hesitate to contact Ms. King.
+
+PERAC anticipates the 91A forms to be in the mail by the first of March and returned to our new location located at 10 Cabot Road, Suite 300, Medford, MA 02155 by April 15, 2025.
+
+Thank you for your continued cooperation in this matter.  And please encourage your members to file their 91A form electronically with PERAC.
+
+Screenshot showing the member update field with an “export member info” button and fields to enter the first and last name.
+Table A. Screenshot showing the member update field
+Screenshot showing fields to enter the member address and contact information.
+Table B. Screenshot showing where to enter the member address and contact information

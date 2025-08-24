@@ -1,0 +1,30 @@
+Memorandum
+Memorandum PERAC Memo #18: Audit Process Via PROSPER
+Date:	
+06/28/2024
+Referenced Sources:	
+PERAC Website
+PERAC Memo #18 2024
+
+To All Retirement Boards:
+M E M O R A N D U M
+
+TO:                  All Retirement Boards
+
+FROM:            Bill Keefe, Executive Director
+
+RE:                  Audit Process Via PROSPER
+
+DATE:             June 28, 2024
+
+We are excited to introduce the new Audit Process application as part of the PROSPER system. This new feature will allow retirement boards to electronically submit audit information and documentation easily to PERAC via PROSPER. In the past, this information was submitted either through email or Interchange, this feature will enable the Boards and PERAC to streamline this process.
+
+An Audit lane will now appear on your Tasks landing page with two boxes titled Pre-Audit Planning Questionnaire and Material List. When your Board is due for an audit, the number 1 will appear in the Pre-Audit Planning Questionnaire box and you will need to click on the task to answer the short questionnaire. Once that has been reviewed and the audit has been planned you will receive an Engagement Letter and Internal Control Questionnaire. The Material List box will then populate with the number 1. When that happens, you will need to click on the task to get to the materials checklist. We have attached a Manual that provides step by step instructions to assist you with the new portal.
+
+Board staff who currently have the Finance role in PROSPER will automatically have access to the Audit Process application. If your Board needs to add a new staff member to access the Audit Process application, please fill out the Individual Account Request Form for PROSPER (available on our website), select the Finance role, and submit the form with all required signatures to PERAC, Attention: PROSPER Help Desk. You can mail the hard copy to our office or scan the completed form and email it to PER-ProsperHelp@per.state.ma.us.
+
+If you have any questions or need to get a member of your team on PROSPER now, please do not hesitate to reach out to our help staff at: PER-ProsperHelp@per.state.ma.us.
+
+If you have audit related questions, please contact Caryn Shea at caryn.m.shea@mass.gov.
+
+Thank you for your cooperation.
